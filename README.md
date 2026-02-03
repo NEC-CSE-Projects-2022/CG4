@@ -29,6 +29,7 @@ In this study we present a machine learning-based methodology to the assessment 
 ## Paper Reference (Inspiration)
 
 👉 **Paper Title:** Car Price Prediction using Machine Learning  
+[Paper](https://www.researchgate.net/publication/381342641_Car_Price_Prediction_using_Machine_Learning)
 **Author Names:** 
 Muhammad Ahmad; Muhammad Ali Farooq; Muhammad Zunnurain Hussain; Muhammad Zulkifl Hasan; Muzzamil Mustafa; Aqsa Khalid  
 **Source:** Original conference / IEEE paper used as inspiration for the modeling approach.
