@@ -18,6 +18,7 @@ CG4 – **Pre-owned Car Price Prediction via Cross-Validated Meta-Ensembles and 
   *Work Done:* Model training, hyperparameter tuning, ensemble design, performance evaluation, and Flask deployment.
 
 ---
+<div style="font-size: 0.9em;">
 
 ## Abstract
 
