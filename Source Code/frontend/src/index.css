@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html { scroll-behavior: smooth; }
+  body { transition: background-color .15s ease, color .15s ease; }
+}
+
+@layer components {
+  .btn { @apply px-4 py-2 rounded-xl font-medium bg-white text-black hover:opacity-90 transition; }
+  .card { @apply rounded-2xl p-6 shadow-lg bg-neutral-100 dark:bg-neutral-900 border border-neutral-200 dark:border-neutral-800; }
+}
+
