@@ -104,10 +104,10 @@ It serves as a strong foundation for building **accurate used car price predicti
 - [LinkedIn](https://linkedin.com/in/aishwaryag22)
 
 **Pagadala Sirisha**  
-  [LinkedIn](https://www.linkedin.com/in/sirisha-pagadala-231b32287/)  
+ - [LinkedIn](https://www.linkedin.com/in/sirisha-pagadala-231b32287/)  
 
 **Kurapati Anusha**  
-  [LinkedIn](https://www.linkedin.com/in/anusha-kurapati-92a864276/)  
+ - [LinkedIn](https://www.linkedin.com/in/anusha-kurapati-92a864276/)  
 
 
 ---
