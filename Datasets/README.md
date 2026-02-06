@@ -49,10 +49,10 @@ CSV
 ## Dataset Overview
 
 **Total Records:**  
-4,009  
+5,000 
 
 **Labeled Records:**  
-4,009  
+5,000 
 
 **Classes:**  
 Continuous numerical price values (regression target).  
@@ -100,8 +100,8 @@ It serves as a strong foundation for building **accurate used car price predicti
 ## 👩‍💻 Authors
 
 **Garikapati Aishwarya**  
-- [GitHub][(https://github.com/codingbot221)]  
-- [LinkedIn][(https://linkedin.com/in/aishwaryag22)]
+- [GitHub](https://github.com/codingbot221) 
+- [LinkedIn](https://linkedin.com/in/aishwaryag22)
 
 **Pagadala Sirisha**  
   [LinkedIn](https://www.linkedin.com/in/sirisha-pagadala-231b32287/)  
