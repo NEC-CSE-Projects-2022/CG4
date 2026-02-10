@@ -153,7 +153,7 @@ CatBoost achieved a strong standalone R² score of **0.9848**, confirming the ef
 
 ## Deployment Info
 
-[Link coming soon]()
+[Link]()
 
 - Flask-based web application  
 - REST API accepts car features as input  
